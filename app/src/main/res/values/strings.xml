@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remote Photo Fetch</string>
+    <string name="add_photos">Add Photos</string>
+</resources>
